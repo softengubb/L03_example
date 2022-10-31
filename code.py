@@ -1,2 +1,3 @@
-print('message');
+msg = 'hello'
+print('message' + msg);
 
